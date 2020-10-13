@@ -36,7 +36,9 @@ In Python, if you declare a variable OUTSIDE of a function, it is considered
 a GLOBAL variable, and can be used in every function.  It is persistent in 
 memory as long as the entire program is running.
 
-Variable SCOPE is just 
+Variable SCOPE refers to whether a variable is a local variable or a global variable.
+Consider the code in the file example1.py
+
 
 ### XX Tasks
 

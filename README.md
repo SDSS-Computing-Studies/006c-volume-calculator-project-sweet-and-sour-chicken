@@ -22,7 +22,7 @@ just created.
 
 This is the concept of a LOCAL variable.  When you create a variable
 INSIDE a function, it is a local variable, and does not exist outside
-of the variable.  This is good because then we can save on memory (the
+of the function.  This is good because then we can save on memory (the
 variable is created when the function starts and then destroyed when the 
 function is finished) but also keeps us from having variables that are
 floating around in the background that might mess up some of our

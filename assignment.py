@@ -7,6 +7,8 @@ def title():
     # Will display a title screen
     # input parameters: none needed
     # output parameters: None
+    # Author:
+    # Modified:
     
     return None
 
@@ -14,6 +16,8 @@ def instructions():
     # Will display instructions
     # input parameters: none needed
     # output parameters: None
+    # Author:
+    # Modified:
     return None
 
 def getParams(shape):
@@ -41,3 +45,5 @@ def main():
     # You will need to include a while loop to keep repeating the commands until
     # the user chooses to exit
     title()
+
+main()

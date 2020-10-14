@@ -43,8 +43,7 @@ def fun4():
     # a return value
     print(word)
 
+print("===========")
 fun3()
 print(word)
 
-fun4()
-print(word)

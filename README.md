@@ -40,8 +40,31 @@ Variable SCOPE refers to whether a variable is a local variable or a global vari
 Consider the code in the file example1.py
 
 
-### XX Tasks
+### 1 Assignment 
 
-##### Task 1
-(x points) 
+Create a program that will have the user enter in important measurements for a geometric
+shape and then calculate the volume of that shape.  This will be an assignment done in groups
+of up to 3 people MAXIMUM. ( You can work individually or in pairs if you wish)
+
+When you create your assignment, you will be asked to join or create a team.  You will need
+to make sure your team name is correct because you will not be able to join a different
+team if you spell it incorrectly.
+
+You should divide up the work so that each of you is working on different parts of the program.
+Some basic assignment functions have been included in the file:
+
+assignment.py
+
+Criteria:
+* The program should have a title screen
+* The program should have the option to show instructions or provide help
+* The program should repeat when completed unless the user chooses to quit
+* The program should provide clear options for available commands when required
+* Each function should be documented
+* There should be some external documentation included about what the program does and how it works. (Like a user manual)
+* Your documentation may be a text file, or may be created in word and drag/dropped into your Github folder
+* The function for each shape (to determine volume) should not have any inputs or print statements. It is JUST for calculations
+* There should only be 1 function that asks the user to input data. It will ask the appropriate number of questions and generate a list of appropriate data
+
+
 
